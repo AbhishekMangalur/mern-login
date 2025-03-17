@@ -8,3 +8,4 @@ services:
     repo: https://github.com/AbhishekMangalur/mern-login
     region: oregon
     autoDeploy: true
+    
